@@ -1,5 +1,5 @@
 print("second attempt")
-print("hope for the best(change made offline)")
+print("conflict resolved")
 print("so far so good")
 print("triying to do it again")
 print("this change was made in the website")
