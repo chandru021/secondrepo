@@ -1,4 +1,4 @@
-print("second attempt")
+print("pushing changes on first line")
 print("conflict resolved")
 print("so far so good")
 print("triying to do it again")
